@@ -1,4 +1,5 @@
 body{
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8,3 +9,19 @@ body{
 .tooltip {
     display: none;
 }
+.clouds {
+    background-image: url(https://th.bing.com/th/id/OIP.Wa98SwkSQHnEiJNP1ZflOgHaE8?w=283&h=189&c=7&r=0&o=5&pid=1.7);
+}
+
+.clear {
+    background-image: url(https://static4.depositphotos.com/1000423/473/i/450/depositphotos_4734399-stock-photo-exquisite-landscape-with-blue-skies.jpg);
+}
+
+.rain {
+    background-image: url(https://downloadwap.com/thumbs2/wallpapers/p2/2019/nature/29/334710a913413026.jpg) ;
+}
+
+.snow {
+    background-image:url(https://diapogram.com/upload/2019/04/11/20190411233920-2debfebb.jpg);
+}
+
